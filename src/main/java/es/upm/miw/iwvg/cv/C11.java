@@ -3,7 +3,7 @@ package es.upm.miw.iwvg.cv;
 public class C11 {
 
     public String m1() {
-        return "Error!!!";
+        return "m1";
     }
 
     public String m2() {
